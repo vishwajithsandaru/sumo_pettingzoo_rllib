@@ -1,0 +1,105 @@
+{
+  "env": "SumoEnv",
+  "framework": "torch",
+  "multiagent": {
+    "policies": {
+      "A0": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "A1": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "A2": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "A3": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "B0": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "B1": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "B2": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "B3": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "C0": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "C1": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "C2": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "C3": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "D0": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "D1": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "D2": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ],
+      "D3": [
+        null,
+        "Box(0.0, 1.0, (33,), float32)",
+        "Discrete(8)",
+        {}
+      ]
+    },
+    "policy_mapping_fn": "<function policy_mapping at 0x7f1e3da33880>"
+  }
+}
